@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 1.0,
+  "finetuned_accuracy": 0.7333,
+  "improvement": -0.2667,
+  "test_set_size": 30,
+  "label_map": {
+    "evidence_based_advice": 0,
+    "personal_experience": 1,
+    "unsupported_claim": 2,
+    "emotional_reaction": 3
+  },
+  "model": "distilbert-base-uncased"
+}
