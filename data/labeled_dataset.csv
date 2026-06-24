@@ -1,1 +1,201 @@
 text,label,notes
+I did not have any referrals for my first internship; I found it through the company website.,personal_experience,Synthetic example generated for model training; manually reviewed.
+I laughed when they called this an entry-level position.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Computer science degrees are useless now because AI will replace every junior developer.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+The entire hiring process feels random.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+All online applications are a waste of time.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+A computer science minor is viewed exactly the same as a full degree.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"After each interview, write down the questions you struggled with so your next study session targets actual weaknesses.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Practice explaining your project decisions out loud because interviewers often care more about your reasoning than the final code.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+My final interview was mostly behavioral even though the recruiter told me to prepare for coding.,personal_experience,Synthetic example generated for model training; manually reviewed.
+"For coding interviews, narrate your approach, confirm complexity, and test edge cases so the interviewer can follow your reasoning.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Paid internships are always better learning experiences than unpaid ones.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"Another day, another application portal account.",emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Any project using artificial intelligence will automatically impress recruiters.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I turned down an offer because the team could not explain what project I would work on.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Why does every entry-level role want three years of experience?,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+They canceled the role after my final interview. Incredible.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+A referral request is more effective after a short conversation because the person has enough context to decide whether they can recommend you.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+You must solve five hundred LeetCode problems before applying anywhere.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"For machine learning roles, show that you can evaluate models and explain tradeoffs instead of only mentioning that you trained one.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Apply early in the recruiting cycle since many internship teams review candidates on a rolling basis.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I am officially done with LeetCode for today.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"If your GitHub profile is included on your resume, pin only projects that are complete, documented, and easy to run.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"When discussing a failed project, explain what you changed afterward so the story demonstrates learning instead of only describing the failure.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+You should never negotiate an internship offer because it will be withdrawn.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Four months of applications and still nothing.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Job searching has become my full-time unpaid job.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Choose one interview preparation plan and follow it consistently for several weeks instead of switching resources every few days.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Remote internships do not teach you anything useful.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"If you keep failing technical screens, track the problem types you miss and review those patterns instead of solving random questions.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I am proud that I stayed calm during the technical interview.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"For referrals, provide the person with the job link and a short summary of why you match the role to reduce the effort required from them.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Employers do not care about communication skills as long as you can code.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"Read the job description carefully and mirror its terminology when it honestly matches your experience, since applicant systems often search for those keywords.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Add unit tests to important project logic because tests show engineering discipline and make your work easier to trust.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+This interview process is exhausting.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I changed my resume format three times before I started getting consistent responses.,personal_experience,Synthetic example generated for model training; manually reviewed.
+I sent a follow-up email after my interview and the hiring manager replied the same afternoon.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Another weekend spent debugging a portfolio project.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Prepare two or three questions about the team before every interview because thoughtful questions demonstrate genuine interest and help you evaluate the role.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Getting ghosted after five rounds is brutal.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I actually enjoyed that interview for once.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I used a class project as my main portfolio piece and still received several interviews.,personal_experience,Synthetic example generated for model training; manually reviewed.
+"Focus on data structures that appear most often in interviews, such as arrays, hash maps, trees, and graphs, before studying rare topics.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+You cannot learn system design until you have several years of industry experience.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"The recruiter ghosted me again, of course.",emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"I spent most of last summer practicing LeetCode, but my interviews ended up focusing more on my projects.",personal_experience,Synthetic example generated for model training; manually reviewed.
+Recruiters reject anyone who has a gap on their resume.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Every startup expects interns to work eighty hours a week.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I started in IT support before moving into a software engineering role internally.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Companies only hire candidates who already know someone on the team.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+The job market is permanently dead for new graduates.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I received more recruiter messages after I rewrote my LinkedIn headline and project descriptions.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Recruiters never look at personal projects.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Personal websites are mandatory for all software engineering applicants.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"If your project uses an API, handle errors and loading states because interviewers may test what happens when the happy path fails.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Tailor the top third of your resume to the role because recruiters usually scan for matching skills before reading the rest.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I somehow passed the technical round!,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I screamed when I saw the offer notification.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"A project description should explain the user problem, your technical contribution, and the result rather than listing every library you used.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"My first resume had too many class assignments, and removing the weaker ones helped.",personal_experience,Synthetic example generated for model training; manually reviewed.
+LeetCode is the only thing that matters for getting hired.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"If you are learning a new framework, build a small complete application before starting a large idea so you understand the full development cycle.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+That coding assessment absolutely destroyed me.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+This take-home assignment is basically a whole project.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Hackathon projects are never taken seriously by employers.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I studied computer science at a small school and still reached final rounds at several large companies.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Open-source contributions always matter more than personal projects.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"If your applications get no responses, revise the resume first; if you get interviews but no offers, focus on interview performance.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"For system design interviews, start by clarifying scale and requirements because the right architecture depends on those constraints.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I am nervous just thinking about tomorrow’s interview.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Companies always prefer candidates who use C++ in coding interviews.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I hate writing cover letters so much.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I accepted a lower-paying internship because the team offered much better mentorship.,personal_experience,Synthetic example generated for model training; manually reviewed.
+"I did not pass the online assessment, but the same company contacted me for another role six months later.",personal_experience,Synthetic example generated for model training; manually reviewed.
+Nothing like a surprise dynamic programming question to ruin your morning.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"If your resume lists a technology, be prepared to explain where you used it and why it was appropriate for the project.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"If you do not attend a top university, large technology companies will ignore you.",unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I was rejected from most large companies but received offers from two smaller startups.,personal_experience,Synthetic example generated for model training; manually reviewed.
+"My recruiter reached out two weeks after the final interview, so the long silence did not mean I was rejected.",personal_experience,Synthetic example generated for model training; manually reviewed.
+I wish companies would just send a clear rejection instead of disappearing.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I joined a hackathon team with strangers and later used that project in several interviews.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Every coding interview is just memorized LeetCode questions.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+You need at least five programming languages on your resume to look qualified.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Graduate school is always a better choice than accepting an entry-level job.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Technical interviews measure job performance perfectly.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"When answering why you want the job, connect the company’s work to your experience instead of giving a generic answer about growth.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"When comparing offers, evaluate mentorship, project ownership, and learning opportunities in addition to salary.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+A well-known company name matters more than what you actually did there.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+The only reason people fail interviews is that they did not practice enough algorithms.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I opened the rejection email and immediately went back to bed.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I transferred from community college and found that recruiters rarely asked about the transfer itself.,personal_experience,Synthetic example generated for model training; manually reviewed.
+"I was nervous about negotiating, but the recruiter increased the offer after I asked once.",personal_experience,Synthetic example generated for model training; manually reviewed.
+Networking is more important than having technical skills.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Nobody gets software internships without a referral anymore.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I am so tired of filling out the same application questions.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"I practiced with a friend every weekend, and that made me much calmer during real interviews.",personal_experience,Synthetic example generated for model training; manually reviewed.
+Do not memorize complete LeetCode solutions; learn the decision process that leads from the problem constraints to the correct data structure.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+The application asked me to re-enter everything already on my resume.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Hiring managers automatically reject resumes longer than one page.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+My first software role came from a campus career fair rather than an online application.,personal_experience,Synthetic example generated for model training; manually reviewed.
+The waiting is worse than the interview itself.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Use measurable outcomes in resume bullets so a reviewer can understand the impact of your work instead of only seeing a list of tasks.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Test your resume by asking someone unfamiliar with your background what they remember after thirty seconds.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I cannot believe I forgot how to reverse a string.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"I used to avoid behavioral preparation, and that cost me an interview where my technical performance was strong.",personal_experience,Synthetic example generated for model training; manually reviewed.
+I got an internship without finishing every requirement listed in the job posting.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Career fairs are useless unless you already have professional experience.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Cloud certifications guarantee a high-paying engineering job.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Today’s interview went better than I expected.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"If you are not getting interviews, the problem is always your GPA.",unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Finally solved a medium problem without looking at hints!,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Internships at small companies do not count as real experience.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Use version control consistently in your projects so your commit history demonstrates how the work developed over time.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"When applying to research roles, mention the specific lab topic and connect it to work you have already done.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I am so relieved that recruiting season is over.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+International students cannot get software internships in the United States.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"Once you fail an interview at a company, they will never consider you again.",unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Companies do not verify anything candidates write on their resumes.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Frontend development is easier than backend development.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Build projects related to the roles you want because relevant work gives interviewers clearer evidence that you can handle similar tasks.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I used Python for nearly every interview even though most of my coursework was in Java.,personal_experience,Synthetic example generated for model training; manually reviewed.
+I got my best internship through a professor who introduced me to a local company.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Do mock interviews with another person because speaking through a solution exposes gaps that silent practice can hide.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I took a semester off from applications and focused on one major project before trying again.,personal_experience,Synthetic example generated for model training; manually reviewed.
+I am celebrating tonight because I finally accepted an internship.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+You cannot get a machine learning role without a PhD.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+My manager gave me ownership of a small internal tool during the second month of my internship.,personal_experience,Synthetic example generated for model training; manually reviewed.
+"I got rejected after solving both coding questions, so I think my communication during the interview hurt me.",personal_experience,Synthetic example generated for model training; manually reviewed.
+I got more callbacks after I moved my internship experience above my coursework on my resume.,personal_experience,Synthetic example generated for model training; manually reviewed.
+"I interviewed for a backend role, but the team eventually offered me a data engineering position.",personal_experience,Synthetic example generated for model training; manually reviewed.
+I started contributing to open source because I did not have internship experience yet.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Review company products before interviews because examples tied to their actual business make your answers more convincing.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I learned more from reviewing failed interviews than from the interviews I passed.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Certifications are completely worthless for software engineering jobs.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Recruiting season has aged me five years.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Best feeling ever seeing the offer letter in my inbox.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Send a short thank-you message after an interview that references a specific part of the conversation to make the follow-up feel genuine.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"The interviewer was incredibly kind, which helped a lot.",emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"If your project is not deployed, it has no value at all.",unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I had no personal website when I got my first offer; my resume and GitHub were enough.,personal_experience,Synthetic example generated for model training; manually reviewed.
+"I worked at a small startup where I handled frontend, backend, and deployment during the same internship.",personal_experience,Synthetic example generated for model training; manually reviewed.
+Another rejection email before breakfast. Amazing.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Reach out to alumni with a specific question about their team or hiring process instead of immediately asking them for a referral.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Separate your training and test data carefully because leakage can make a model look accurate even when it will fail on new examples.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I was placed on a waitlist after the final round and received an offer when another candidate declined.,personal_experience,Synthetic example generated for model training; manually reviewed.
+I was asked to design a notification system during my new graduate interview.,personal_experience,Synthetic example generated for model training; manually reviewed.
+You should accept the first offer you receive because another one may never come.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"Use a spreadsheet to track application date, company, role, status, and follow-up so you do not lose opportunities or duplicate applications.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I once forgot to test an empty input case during an interview and noticed the mistake only after time expired.,personal_experience,Synthetic example generated for model training; manually reviewed.
+"If you are targeting startups, emphasize projects where you owned multiple parts of the product because smaller teams value broad execution.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+A referral guarantees that a recruiter will interview you.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+"If a recruiter does not respond within three days, you are definitely rejected.",unsupported_claim,Synthetic example generated for model training; manually reviewed.
+Keep your resume to one page as a student unless you have enough directly relevant experience to justify additional space.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"I spent three months building a full-stack project, but interviewers mostly asked about one difficult bug I fixed.",personal_experience,Synthetic example generated for model training; manually reviewed.
+"I worked part-time during school, so I could only apply to a few jobs each week.",personal_experience,Synthetic example generated for model training; manually reviewed.
+"I had one strong project and two average ones, and every interviewer asked about the strong project.",personal_experience,Synthetic example generated for model training; manually reviewed.
+"Before negotiating an offer, research the market range and explain your request using role scope and competing options rather than personal expenses.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I chose a return offer because I already trusted the manager and understood the team culture.,personal_experience,Synthetic example generated for model training; manually reviewed.
+That recruiter call made my entire week.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I need a break from career advice posts.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I had trouble explaining recursion until I started drawing the call stack by hand.,personal_experience,Synthetic example generated for model training; manually reviewed.
+I am running out of motivation to keep applying.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"Recruiters respond better to specific achievements than vague claims, so replace phrases like worked on with built, improved, or reduced followed by evidence.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+My hands were shaking through the entire interview.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I landed my internship after talking to an engineer at a university club event.,personal_experience,Synthetic example generated for model training; manually reviewed.
+I am excited and terrified to start my first internship.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+Prioritize internship applications that match your current skills while keeping a smaller number of reach applications.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"For backend internships, one deployed API with authentication, tests, and a database is stronger than several unfinished tutorial projects.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I received an interview from a company I had forgotten applying to months earlier.,personal_experience,Synthetic example generated for model training; manually reviewed.
+The tech job market is completely cooked.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+System design is irrelevant for anyone below senior level.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I received my offer after a former classmate referred me to their team.,personal_experience,Synthetic example generated for model training; manually reviewed.
+A high GPA guarantees that you will get interviews.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+That final round felt like it lasted all day.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I feel completely lost about what to study next.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I applied to about one hundred internships before I received my first offer.,personal_experience,Synthetic example generated for model training; manually reviewed.
+Anyone can become interview-ready in two weeks.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I am unbelievably relieved that the assessment is over.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+I cannot believe they asked four rounds for an internship.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+The best resume format works for every candidate and every role.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+My internship search improved when I started applying in August instead of waiting until winter.,personal_experience,Synthetic example generated for model training; manually reviewed.
+I switched from mechanical engineering to computer science during my second year and had to catch up on programming classes.,personal_experience,Synthetic example generated for model training; manually reviewed.
+You can improve coding interview speed by practicing common patterns and then reviewing why each pattern applies.,evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"A strong internship project should solve a clear problem, include a usable interface, and be deployed so recruiters can actually test it.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"When preparing behavioral answers, use the situation, task, action, and result structure so your response stays focused.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Bootcamp graduates cannot become real software engineers.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I finally got an offer! Let’s go!,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"For frontend roles, include accessibility, responsive design, and performance work because those details separate polished projects from simple demos.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+Recruiters only spend six seconds on every resume without exception.,unsupported_claim,Synthetic example generated for model training; manually reviewed.
+I cannot stop smiling after receiving my return offer.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"If a course project is your best experience, describe your personal contribution clearly so recruiters do not assume the whole team did the same work.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I feel much better after finishing my first mock interview.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"If an interview question is unclear, ask for an example or clarify assumptions before coding; solving the wrong problem quickly is still a failure.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+I failed my first technical interview because I froze on a basic hash map problem.,personal_experience,Synthetic example generated for model training; manually reviewed.
+I had a 3.2 GPA and still got an internship because my projects gave me a lot to discuss.,personal_experience,Synthetic example generated for model training; manually reviewed.
+"My internship was remote, and I struggled at first because I was afraid to ask questions.",personal_experience,Synthetic example generated for model training; manually reviewed.
+The company rejected me ten minutes after I applied.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
+"Ask for a referral only after you have tailored your resume, because a referral cannot compensate for an application that does not match the role.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+"A concise README should include setup instructions, screenshots, core features, and technical tradeoffs so reviewers can understand the project quickly.",evidence_based_advice,Synthetic example generated for model training; manually reviewed.
+That rejection hurt more than I expected.,emotional_reaction,Synthetic example generated for model training; manually reviewed.
